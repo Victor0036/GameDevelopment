@@ -19,6 +19,9 @@ from Stackskills.com
 (Behind a paywall)
 
 
+WebGL Build: https://victor0036.github.io/
+Somehow it does not work yet...
+
 When playing the game
 press 1. for first picked up weapon
 press 2. for second picked up weapon
